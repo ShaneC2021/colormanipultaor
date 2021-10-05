@@ -1,0 +1,14 @@
+* body {
+  margin: 0;
+  padding: 0;
+}
+
+
+#test {
+  height : 100px;
+  width: 300px;
+  color: purple;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
